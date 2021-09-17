@@ -1,2 +1,3 @@
 entity = database entity
 exact match to DB entity
+need to setup to stop auto class name transformation from PascalCase to snake_case
