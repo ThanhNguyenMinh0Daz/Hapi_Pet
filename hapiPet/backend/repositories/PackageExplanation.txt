@@ -1,2 +1,0 @@
-repository = bridge between server and database
-contain regularly use query

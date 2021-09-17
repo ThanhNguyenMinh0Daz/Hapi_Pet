@@ -1,3 +1,0 @@
-dto = data transfer object
-dto != entity
-dto act as wrapper class for entity / entities

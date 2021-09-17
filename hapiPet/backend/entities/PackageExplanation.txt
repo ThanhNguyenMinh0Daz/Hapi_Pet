@@ -1,2 +1,0 @@
-entity = database entity
-exact match to DB entity

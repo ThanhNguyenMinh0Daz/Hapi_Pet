@@ -1,2 +1,0 @@
-controller = REST API container
-main job is redirection
